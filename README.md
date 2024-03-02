@@ -2,7 +2,7 @@
 
 This repository is used for prediction of anti-coronavirus peptides (ACVPs).
 
-# Getting Started
+## Getting Started
 
 1. Install python depandencies
 
