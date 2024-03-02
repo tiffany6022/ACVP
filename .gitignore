@@ -1,0 +1,6 @@
+result/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.*.swp
+try.*
